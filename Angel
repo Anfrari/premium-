@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="PREMIUM | A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="PREMIUM SD",PREMIUM | A&E
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8355
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="PREMIUM | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" group-title="PREMIUM SD",PREMIUM | AMC
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8422
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="PREMIUM | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Animal Planet
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8370
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="PREMIUM | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PREMIUM SD",PREMIUM | AXN
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8421
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="PREMIUM | Cine Latino" tvg-logo="https://i.pinimg.com/originals/e3/bf/9e/e3bf9e710a8fce309b6fa60dc6a7a8e9.png" group-title="PREMIUM SD",PREMIUM | Cine Latino
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/14273
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="PREMIUM | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/175px-CinecanalLA.png" group-title="PREMIUM SD",PREMIUM | Cinecanal
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8419
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="PREMIUM | Cinemax" tvg-logo="https://dl.dropboxusercontent.com/s/73x470u8mvatm23/Cinemax.png" group-title="PREMIUM SD",PREMIUM | Cinemax
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8390
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="PREMIUM | CNN En Español" tvg-logo="https://i.dlpng.com/static/png/408162_preview.png" group-title="PREMIUM SD",PREMIUM | CNN En Español
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8368
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="PREMIUM | CNN Internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="PREMIUM SD",PREMIUM | CNN Internacional
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8347
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="PREMIUM | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="PREMIUM SD",PREMIUM | Comedy Central
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8418
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="PREMIUM | De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM SD",PREMIUM | De Pelicula
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/9300
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="PREMIUM | De Pelicula Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM SD",PREMIUM | De Pelicula Plus
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/53842
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="PREMIUM | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Channel
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8417
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="PREMIUM | Discovery Civilization" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="PREMIUM SD",PREMIUM | Discovery Civilization
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8131
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="PREMIUM | Discovery H&H" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="PREMIUM SD",PREMIUM | Discovery H&H
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8391
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="PREMIUM | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/120px-Investigation_Discovery_Logo_2018.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery ID
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8416
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="PREMIUM | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/150px-Science_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Science
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8414
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="PREMIUM | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Theater
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8413
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="PREMIUM | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Turbo
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8412
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="PREMIUM | Discovery World" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="PREMIUM SD",PREMIUM | Discovery World
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8366
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="PREMIUM | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="PREMIUM SD",PREMIUM | Distrito Comedia
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8371
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="PREMIUM | E! Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/74px-E%21_Logo_2012.svg.png" group-title="PREMIUM SD",PREMIUM | E! Entertaiment
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8410
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="PREMIUM | El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="PREMIUM SD",PREMIUM | El Gourmet
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8365
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="PREMIUM | Europa Europa" tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png" group-title="PREMIUM SD",PREMIUM | Europa Europa
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8168
+#EXTINF:-1 tvg-id="Food Network USA - Eastern Feed-US" tvg-name="PREMIUM | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="PREMIUM SD",PREMIUM | Food Network
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8352
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="PREMIUM | Star Channel" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCHANNEL_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Channel
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8409
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="PREMIUM | Star Life" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARLIFE_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Life
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8403
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Action" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARACTION_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Action
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8408
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Cinema" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCINEMA_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Cinema
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8407
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Classics" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCLASSIC_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Classics
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8406
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Comedy" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Comedy
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8405
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Fun" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARFUN_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Fun
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8404
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Hits" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARHITS_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Hits
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8402
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Series" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARSERIES_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Series
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8401
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="PREMIUM SD",PREMIUM | FX
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8420
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/100px-FX_Movies_logo.svg.png" group-title="PREMIUM SD",PREMIUM | FXM
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8411
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Gala TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000361176511/a3216e93ea544cd1fb8b1350265ce906_400x400.png" group-title="PREMIUM SD",PREMIUM | Gala TV
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8363
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="PREMIUM SD",PREMIUM | Glitz
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8362
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/496px-Logo_Golden_TV.svg.png" group-title="PREMIUM SD",PREMIUM | Golden
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8399
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden Edge" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="PREMIUM SD",PREMIUM | Golden Edge
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8188
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden Plus" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="PREMIUM SD",PREMIUM | Golden Plus
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8400
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PREMIUM SD",PREMIUM | HBO
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8397
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/149px-HBO2_logo.png" group-title="PREMIUM SD",PREMIUM | HBO 2
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8396
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" group-title="PREMIUM SD",PREMIUM | HBO Family
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8395
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PREMIUM SD",PREMIUM | HBO Plus
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8394
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PREMIUM SD",PREMIUM | HBO Signature
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8393
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | History" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history_m.png" group-title="PREMIUM SD",PREMIUM | History
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8392
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="PREMIUM SD",PREMIUM | History 2
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8398
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Hola TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="PREMIUM SD",PREMIUM | Hola TV
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8343
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Isat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/140px-I.Sat_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Isat
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8360
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Lifetime" tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="PREMIUM SD",PREMIUM | Lifetime
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8359
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Mas Chic" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="PREMIUM SD",PREMIUM | Mas Chic
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8349
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Max Up" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maxup.png/150px-Maxup.png" group-title="PREMIUM SD",PREMIUM | Max Up
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8389
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | Morbido TV" tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png" group-title="PREMIUM HD",PREMIUM HD | Morbido TV
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8342
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | NatGeo" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="PREMIUM SD",PREMIUM | NatGeo
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8387
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="PREMIUM SD",PREMIUM | NatGeo Wild
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8385
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="PREMIUM | Paramount Channel" tvg-logo="https://www.pngkey.com/png/detail/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="PREMIUM SD",PREMIUM | Paramount Channel
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8345
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Pasiones
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8344
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Sony
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8383
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="PREMIUM SD",PREMIUM | Space
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8382
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Studio Universal" tvg-logo="https://dl.dropboxusercontent.com/s/j8uwu2q0evpaqbw/studiouniversal.png" group-title="PREMIUM SD",PREMIUM | Studio Universal
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8381
+#EXTINF:-1 tvg-id="sundancetv.mx" tvg-name="PREMIUM | Sundance Tv" tvg-logo="https://cdn.mitvstatic.com/channels/cl_sundance-channel_m.png" group-title="PREMIUM SD",PREMIUM | Sundance Tv
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8184
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/170px-SYFY.svg.png" group-title="PREMIUM SD",PREMIUM | Syfy
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8358
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png" group-title="PREMIUM SD",PREMIUM | TBS
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8380
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PREMIUM SD",PREMIUM | TCM
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8379
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Telemundo Internacional" tvg-logo="https://multipress.com.mx/wp-content/uploads/2019/03/image003-6.png" group-title="PREMIUM SD",PREMIUM | Telemundo Internacional
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8378
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="PREMIUM SD",PREMIUM | TLC
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8377
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Tlnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="PREMIUM SD",PREMIUM | Tlnovelas
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8386
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PREMIUM SD",PREMIUM | TNT
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8376
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TNT Series" tvg-logo="https://i.ibb.co/G504hFJ/descarga-10.png" group-title="PREMIUM SD",PREMIUM | TNT Series
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8375
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Tru TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="PREMIUM SD",PREMIUM | Tru TV
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8374
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Unicable" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Unicable2007.png" group-title="PREMIUM SD",PREMIUM | Unicable
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8357
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/150px-Universal_TV_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Universal Channel
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8356
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/120px-Warner2018LA.png" group-title="PREMIUM SD",PREMIUM | Warner Channel
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/8373
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ANIMAL PLANET" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="PREMIUM HD",PREMIUM HD |  ANIMAL PLANET
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/14569
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CINEMAX" tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="PREMIUM HD",PREMIUM HD |  CINEMAX
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6942
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CINEMAX ACTION" tvg-logo="http://2.bp.blogspot.com/-2lKRdEbpSGA/Tt-6ByaZRKI/AAAAAAAACnA/6S9tZnA8Dvs/s1600/cinemax_hdtv.png" group-title="PREMIUM HD",PREMIUM HD |  CINEMAX ACTION
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6943
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CNN EN ESPAÑOL" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="PREMIUM HD",PREMIUM HD |  CNN EN ESPAÑOL
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6944
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DE PELICULA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="PREMIUM HD",PREMIUM HD |  DE PELICULA
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/9299
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY CIVILIZACION" tvg-logo="https://www.pngfind.com/pngs/m/431-4311117_discovery-civilization-discovery-channel-hd-png-download.png" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY CIVILIZACION
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6946
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY SCIENCIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY SCIENCIE
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6947
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY TURBO" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY TURBO
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6949
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Estrella_TV_-_2009_Logo.png/300px-Estrella_TV_-_2009_Logo.png" group-title="PREMIUM HD",PREMIUM HD |  ESTRELLA TV
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6956
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="PREMIUM HD",PREMIUM HD |  FOOD NETWORK
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6957
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  STAR CINEMA" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCINEMA_t-290x163.png" group-title="PREMIUM HD",PREMIUM HD |  STAR CINEMA
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6962
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  STAR LIFE" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARLIFE_t-290x163.png" group-title="PREMIUM HD",PREMIUM HD |  STAR LIFE
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6965
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="PREMIUM HD",PREMIUM HD |  GOLDEN
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6974
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN PLUS" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="PREMIUM HD",PREMIUM HD |  GOLDEN PLUS
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6973
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="PREMIUM HD",PREMIUM HD |  HISTORY 2
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6982
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  SHOWTIME BEYOND" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Beyond.jpg" group-title="PREMIUM HD",PREMIUM HD |  SHOWTIME BEYOND
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/7014
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  SYFY" tvg-logo="https://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="PREMIUM HD",PREMIUM HD |  SYFY
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/6992
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="PREMIUM HD",PREMIUM HD |  TLC
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/7011
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | A&E FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="PREMIUM  FHD",DUAL | A&E FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48342
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | AMC FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/AMCHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | AMC FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48343
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="DUAL | AXN FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/AXNHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | AXN FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48344
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="DUAL | CINECANAL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/CINECANALHDWHORIZONTAL.png" group-title="PREMIUM  FHD",DUAL | CINECANAL FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48345
+#EXTINF:-1 tvg-id="" tvg-name="DUAL | DHE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="PREMIUM  FHD",DUAL | DHE FHD 
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48365
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | DISCOVERY CHANNEL FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/DISCOVERYCHANNEL.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY CHANNEL FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48377
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DUAL | DISCOVERY H&H FHD" tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY H&H FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48379
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | DISCOVERY ID FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY ID FHD 
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48373
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DUAL | DISCOVERY THEATHER FHD" tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY THEATHER FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48380
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DUAL | DISCOVERY WORLD FHD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="PREMIUM  FHD",DUAL | DISCOVERY WORLD FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48378
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | FILM & ARTS FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Film-%26-Arts.png/revision/latest?cb=20170101180238" group-title="PREMIUM  FHD",DUAL | FILM & ARTS FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48366
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="DUAL | STAR ACTION FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARACTION_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR ACTION FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48346
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="DUAL | STAR CHANNEL FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCHANNEL_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR CHANNEL FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48347
+#EXTINF:-1 tvg-id="foxcomedyhd.mx" tvg-name="DUAL | STAR COMEDY FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR COMEDY FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48348
+#EXTINF:-1 tvg-id="foxfamilyhd.mx" tvg-name="DUAL | STAR FUN FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARFUN_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR FUN FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48349
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="DUAL | STAR HITS FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARHITS_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR HITS FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48350
+#EXTINF:-1 tvg-id="A and E US - Eastern Feed-US" tvg-name="DUAL | STAR SERIES FHD" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARSERIES_t-290x163.png" group-title="PREMIUM  FHD",DUAL | STAR SERIES FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48351
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="DUAL | FX FHD" tvg-logo="https://www.areacucuta.com/wp-content/uploads/2017/09/FXMLogo-blanco.jpg" group-title="PREMIUM  FHD",DUAL | FX FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48367
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="DUAL | FXM FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/FXMHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | FXM FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48352
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="DUAL | GOLDEN PREMIER FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/GOLDENPREMIERHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | GOLDEN PREMIER FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48353
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="DUAL | HBO 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/149px-HBO2_logo.png" group-title="PREMIUM  FHD",DUAL | HBO 2 FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48354
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="DUAL | HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" group-title="PREMIUM  FHD",DUAL | HBO FAMILY FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48355
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PREMIUM  FHD",DUAL | HBO FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48356
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="DUAL | HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PREMIUM  FHD",DUAL | HBO PLUS FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48357
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="DUAL | HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PREMIUM  FHD",DUAL | HBO SIGNATURE FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48374
+#EXTINF:-1 tvg-id="HBO Zone - East-US" tvg-name="DUAL | HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM  FHD",DUAL | HBO XTREME FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48368
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | HISTORY FHD" tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/history-logo.jpg" group-title="PREMIUM  FHD",DUAL | HISTORY FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48376
+#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="DUAL | MAX PRIME FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/MAXPRIMEESTEHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | MAX PRIME FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48375
+#EXTINF:-1 tvg-id="maxup.mx" tvg-name="DUAL | MAX UP FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/MAXUPHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | MAX UP FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48358
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | NAT GEO FHD" tvg-logo="https://www.stickpng.com/assets/images/5a0c74bd9642de34b6b65cf5.png" group-title="PREMIUM  FHD",DUAL | NAT GEO FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48371
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | NATGEO WILD FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="PREMIUM  FHD",DUAL | NATGEO WILD FHD 
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48372
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="DUAL | PARAMOUNT CHANNEL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/PARAMOUNTCHANNELHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | PARAMOUNT CHANNEL FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48359
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="DUAL | SONY FHD" tvg-logo="https://i.pinimg.com/originals/fa/89/a2/fa89a27334e354cb59b78a61893aada1.jpg" group-title="PREMIUM  FHD",DUAL | SONY FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48369
+#EXTINF:-1 tvg-id="space.mx" tvg-name="DUAL | SPACE FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/SPACEHDWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | SPACE FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48361
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="DUAL | STUDIO UNIVERSAL FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/STUDIOUNIVERSALWHORIZONTAL.jpg" group-title="PREMIUM  FHD",DUAL | STUDIO UNIVERSAL FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48360
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | TBS FHD" tvg-logo="http://144.217.91.146/Logos/1Claro/TBSHDWHORIZONTAL.png" group-title="PREMIUM  FHD",DUAL | TBS FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48362
+#EXTINF:-1 tvg-id="88039" tvg-name="DUAL | TNT FHD" tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg" group-title="PREMIUM  FHD",DUAL | TNT FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48363
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="DUAL | TNT SERIES FHD" tvg-logo="https://i.ibb.co/G504hFJ/descarga-10.png" group-title="PREMIUM  FHD",DUAL | TNT SERIES FHD
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48364
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="DUAL | WARNER CHANNEL FHD " tvg-logo="https://tvnotiblog.com/wp-content/uploads/2015/04/wbtv-890x538.jpg" group-title="PREMIUM  FHD",DUAL | WARNER CHANNEL FHD 
+http://globalentertainmentec.xyz:8000/conejo10/conejo10/48370
